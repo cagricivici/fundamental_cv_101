@@ -1,3 +1,3 @@
 # A face emotion recognition
 
-Dedector method: Convolutional Neural Networks
+Detection Method: Convolutional Neural Networks (CNN)
