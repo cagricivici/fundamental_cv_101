@@ -1,8 +1,8 @@
 # Operations in Computer Vision
 
 >Fundamentals:
--vertical&horizontal edge
--padding
--pooling
--stride
+- vertical&horizontal edge 
+- padding
+- pooling
+- stride
 
