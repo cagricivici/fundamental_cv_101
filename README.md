@@ -1,2 +1,3 @@
-# happy_or_not
-emotion recognition using convolutional neural networks
+# A face emotion recognition
+
+Dedector method: Convolutional Neural Networks
