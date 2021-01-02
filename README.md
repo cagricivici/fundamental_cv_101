@@ -1,10 +1,8 @@
-# A face emotion recognition
+# Operations in Computer Vision
 
-Detection Method: Convolutional Neural Networks (CNN)
-:smile: 
-:satisfied:
-:rage:
-:angry:
-:scream:
-:cry:
-:anguished:
+>Fundamentals:
+-vertical&horizontal edge
+-padding
+-pooling
+-stride
+
